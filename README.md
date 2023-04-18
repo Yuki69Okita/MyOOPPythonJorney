@@ -1,41 +1,36 @@
 Object-oriented programming
 ---------------------------
-1. &nbsp; [OOP]() <br />
-<br />
-2. &nbsp; [Process:]() <br />
-   1. &nbsp; [Class]() <br />
-   2. &nbsp; [Object]() <br />
-<br />
-3. &nbsp; [Types of Attributes:]() <br />
-   1. &nbsp; [Instance Attribute]() <br />
-   2. &nbsp; [Class Attribute]() <br />
-<br />
-4. &nbsp; [Types of Methods:]() <br />
-   1. &nbsp; [Instance Method]() <br />
-   2. &nbsp; [Class Method]() <br />
-   3. &nbsp; [Static Method]() <br />
-<br />
-5. &nbsp; [Decorators:]()<br />
-   1. &nbsp; [Built-in Decorator]()<br />
-   2. &nbsp; [User-defined Decorator]()<br />
-<br />
-6. &nbsp; [Main Concepts:]()<br />
-   1. &nbsp; [Inheritance]()<br />
-      1. &nbsp; [Single Inheritance]()<br />
-      2. &nbsp; [Multiple Inheritance]()<br />
-      3. &nbsp; [Multilevel Inheritance]()<br />
-      4. &nbsp; [Hierarchical Inheritance]()<br />
-      5. &nbsp; [Hybrid Inheritance]()<br />
-   2. &nbsp; [Polymorphism]()<br />
-      1. &nbsp; [Built-in Polymorphism]()<br />
-      2. &nbsp; [User-defined Function Polymorphism]()<br />
-      3. &nbsp; [Polymorphism with Class]()<br />
-      4. &nbsp; [Polymorphism with Class Inheritance]()<br />
-      5. &nbsp; [Polymorphism with Class and Function]()<br />
-   3. &nbsp; [Abstract]()<br />
-   4. &nbsp; [Encapsulation]()<br />
-      1. &nbsp; [Protected Members]()<br />
-      2. &nbsp; [Private Members]()<br />
+1. &nbsp; [OOP](https://github.com/Yuki69Okita/MyOOPPythonJorney#1-oop) <br />
+2. &nbsp; [Process:](https://github.com/Yuki69Okita/MyOOPPythonJorney#2-process) <br />
+   1. &nbsp; [Class](https://github.com/Yuki69Okita/MyOOPPythonJorney#class) <br />
+   2. &nbsp; [Object](https://github.com/Yuki69Okita/MyOOPPythonJorney#object) <br />
+3. &nbsp; [Types of Attributes:](https://github.com/Yuki69Okita/MyOOPPythonJorney#3-types-of-attributes) <br />
+   1. &nbsp; [Instance Attribute](https://github.com/Yuki69Okita/MyOOPPythonJorney#instance-attribute) <br />
+   2. &nbsp; [Class Attribute](https://github.com/Yuki69Okita/MyOOPPythonJorney#class-attribute) <br />
+4. &nbsp; [Types of Methods:](https://github.com/Yuki69Okita/MyOOPPythonJorney#4-types-of-methods) <br />
+   1. &nbsp; [Instance Method](https://github.com/Yuki69Okita/MyOOPPythonJorney#instance-method) <br />
+   2. &nbsp; [Class Method](https://github.com/Yuki69Okita/MyOOPPythonJorney#class-method) <br />
+   3. &nbsp; [Static Method](https://github.com/Yuki69Okita/MyOOPPythonJorney#static-method) <br />
+5. &nbsp; [Decorators:](https://github.com/Yuki69Okita/MyOOPPythonJorney#5-decorators)<br />
+   1. &nbsp; [Built-in Decorator](https://github.com/Yuki69Okita/MyOOPPythonJorney#built-in-decorator)<br />
+   2. &nbsp; [User-defined Decorator](https://github.com/Yuki69Okita/MyOOPPythonJorney#user-defined-decorator)<br />
+6. Main Concepts:<br />
+   1. &nbsp; [Inheritance](https://github.com/Yuki69Okita/MyOOPPythonJorney/tree/main/Inheritance#inheritance)<br />
+      1. &nbsp; [Single Inheritance](https://github.com/Yuki69Okita/MyOOPPythonJorney/tree/main/Inheritance#1-single-inheritance)<br />
+      2. &nbsp; [Multiple Inheritance](https://github.com/Yuki69Okita/MyOOPPythonJorney/tree/main/Inheritance#2-multiple-inheritances)<br />
+      3. &nbsp; [Multilevel Inheritance](https://github.com/Yuki69Okita/MyOOPPythonJorney/tree/main/Inheritance#3-multilevel-inheritance)<br />
+      4. &nbsp; [Hierarchical Inheritance](https://github.com/Yuki69Okita/MyOOPPythonJorney/tree/main/Inheritance#4-hierarchical-inheritance)<br />
+      5. &nbsp; [Hybrid Inheritance](https://github.com/Yuki69Okita/MyOOPPythonJorney/tree/main/Inheritance#5-hybrid-inheritance)<br />
+   2. &nbsp; [Polymorphism](https://github.com/Yuki69Okita/MyOOPPythonJorney/tree/main/Polymorphism#polymorphism)<br />
+      1. &nbsp; [Built-in Polymorphism](https://github.com/Yuki69Okita/MyOOPPythonJorney/tree/main/Polymorphism#1-built-in-polymorphism)<br />
+      2. &nbsp; [User-defined Function Polymorphism](https://github.com/Yuki69Okita/MyOOPPythonJorney/tree/main/Polymorphism#2-user-defined-function-polymorphism)<br />
+      3. &nbsp; [Polymorphism with Class](https://github.com/Yuki69Okita/MyOOPPythonJorney/tree/main/Polymorphism#3-polymorphism-with-class)<br />
+      4. &nbsp; [Polymorphism with Class Inheritance](https://github.com/Yuki69Okita/MyOOPPythonJorney/tree/main/Polymorphism#4-polymorphism-with-class-inheritance)<br />
+      5. &nbsp; [Polymorphism with Class and Function](https://github.com/Yuki69Okita/MyOOPPythonJorney/tree/main/Polymorphism#5-polymorphism-with-class-and-function)<br />
+   3. &nbsp; [Abstract](https://github.com/Yuki69Okita/MyOOPPythonJorney/tree/main/Abstract#abstract)<br />
+   4. &nbsp; [Encapsulation](https://github.com/Yuki69Okita/MyOOPPythonJorney/tree/main/Encapsulation#encapsulation)<br />
+      1. &nbsp; [Protected Members](https://github.com/Yuki69Okita/MyOOPPythonJorney/tree/main/Encapsulation#1-protected-members)<br />
+      2. &nbsp; [Private Members](https://github.com/Yuki69Okita/MyOOPPythonJorney/tree/main/Encapsulation#2-private-members)<br />
 
 -----------------------
 ## 1. OOP:
